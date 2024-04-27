@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RollNori</string>
+    <string name="cook_button">Button for combining ingredients together</string>
+    <string name="clear_button">Button for clearing displayed ingredients</string>
+    <string name="instructions_button">Button for opening instructions</string>
+    <string name="hint_button">Button for opening hint</string>
+    <string name="rice_button">Button for selecting rice</string>
+    <string name="seaweed_button">Button for selecting Nori Seaweed</string>
+    <string name="sauce_button">Button for selecting Soy Sauce</string>
+    <string name="egg_button">Button for selecting Egg</string>
+    <string name="mayo_button">Button for selecting Mayonnaise</string>
+    <string name="ume_button">Button for selecting Ume Plums</string>
+    <string name="shiso_button">Button for selecting Shiso Leaves</string>
+    <string name="tuna_button">Button for selecting Canned Tuna</string>
+    <string name="ketchup_button">Button for selecting Ketchup</string>
+    <string name="roe_button">Button for selecting Cod Roe</string>
+    <string name="tempura_button">Button for selecting Shrimp Tempura</string>
+    <string name="salmon_button">Button for selecting Salmon</string>
+    <string name="bonito_button">Button for selecting Bonito Flakes</string>
+    <string name="corn_button">Button for selecting Corn</string>
+</resources>
